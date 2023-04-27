@@ -1,5 +1,8 @@
 # connection
 
+## UCC 및 서비스 시연 영상
+[![Video Label](http://img.youtube.com/vi/HMA0U9bEeXo/0.jpg)](https://youtu.be/HMA0U9bEeXo?t=0s)
+
 - 진행 기간 : 2022.10.11 ~ 2022.11.21 (6주간) <br/>
 - 서비스 명 : connection (code + connection)
 - 주요 기능 :
